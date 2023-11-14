@@ -3,7 +3,7 @@ from twilio.base.exceptions import TwilioRestException
 
 
 account_sid = "AC7b6b626719f6558f48f8edc2962bdf19"
-auth_token = "be932d0472b06e6ece4625dc99235cad"
+auth_token = "e37c02a0f06be5d7ef7893bc75440ce3"
 
 
 client = Client(account_sid, auth_token)
